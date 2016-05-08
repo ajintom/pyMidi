@@ -1,7 +1,7 @@
 pyMidi
 ======
 
-* python-connection for controlling keyboard events on windows...
+* python-connection ng keyboard events on windows...
 
 * use test.py for testing you midi connection
 
